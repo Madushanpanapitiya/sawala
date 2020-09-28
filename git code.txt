@@ -1,0 +1,14 @@
+git config --global user.name 'Shamika sandaruwan'
+
+git config -- global user.email 'Shamikasandaruwan11@gmail.com'
+
+git init
+
+git add .
+
+git status
+
+git commit -m "my commnt"
+
+git remote add origin "link"
+git push -u origin master
